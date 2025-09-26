@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krishna Raj Prince</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on [Community Service Map](https://github.com/KriXsh-09/Community_Service_Map)
+- 🔭 I’m currently working on [Notes Sharing Website](https://github.com/KriXsh-09/Noteshare)
 
 - 🌱 I’m currently learning **Scikit learn**
 
 - 👯 I’m looking to collaborate on **Any ML Project**
-
-- 🤝 I’m looking for help with [Community Service Map](https://github.com/KriXsh-09/Community_Service_Map)
 
 - 👨‍💻 All of my projects are available at [krixsh.xyz](krixsh.xyz)
 
